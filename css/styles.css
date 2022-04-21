@@ -112,4 +112,13 @@ main img {
     width: 860px;
     margin: 0 auto;
 }
+
+h2 {
+    font-size: 2rem;
+    padding-bottom: 20px ;
+}
+
+.radio {
+    padding-right: 40px;
+}
 /* ----- FOOTER ----- */
