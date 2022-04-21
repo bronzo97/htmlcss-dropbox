@@ -121,4 +121,41 @@ h2 {
 .radio {
     padding-right: 40px;
 }
+
+.singolo,
+.team,
+.azienda  {
+    border-bottom: 1px solid #777;
+    text-align: center;
+}
+
+.card {
+    border: 1px solid #777;
+    height: 100%;
+}
+
+.card-bottom {
+    padding: 20px;
+}
+
+.col {
+    flex-grow: 1;
+}
+
+.gap-2 {
+    gap: 2rem;
+}
+
+.small-line {
+    height: 1px;
+    width: 20%;
+    background-color: #777;
+    padding-left: 2rem;
+}
+
+.punti-salienti .fa-check {
+    color: #065FF6;
+}
+
+
 /* ----- FOOTER ----- */
