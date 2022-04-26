@@ -141,6 +141,7 @@ h2 {
 
 main .col {
     flex-grow: 1;
+    width: 100%;
 }
 
 .gap-2 {
@@ -236,6 +237,9 @@ main .col {
     padding: 20px;
 }
 
+.clear-padding-b {
+    padding-bottom: 0;
+}
 
 /* ----- FOOTER ----- */
 
